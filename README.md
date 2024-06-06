@@ -1,8 +1,11 @@
-## MediFlex <br><br>
+## MediFlex <br><br><center> <img src="https://github.com/tharindug99/MediFlex-Mern-App/blob/master/frontend/src/assets/logo.png?raw=true" width="100" style="margin: 20px;" alt="MediFlex Logo">
+</center>
+
 ![Static Badge](https://img.shields.io/badge/react-blue) ![Static Badge](https://img.shields.io/badge/mongodb-green) ![Static Badge](https://img.shields.io/badge/express-yellow) ![Static Badge](https://img.shields.io/badge/nodejs-green)
 
 <p align=center>
-   <img src="https://github.com/tharindug99/mediflex/frontend/src/assets/logo.png"
+   
+
 </p> 
 
 
